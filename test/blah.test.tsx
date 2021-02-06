@@ -1,5 +1,5 @@
 import { act } from 'react-dom/test-utils';
-import { useReactFactory } from "../src"
+import useReactFactory from "../src"
 import { testHook } from '../tools/testHook';
 import {BehaviorSubject} from 'rxjs'
 

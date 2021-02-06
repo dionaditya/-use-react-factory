@@ -26,5 +26,6 @@ var useReactFactory = function useReactFactory(stream, initValue) {
   };
 };
 
-export { ConnectionState, StreamBuilder, createStore, sink, useReactFactory };
+export default useReactFactory;
+export { ConnectionState, StreamBuilder, createStore, sink };
 //# sourceMappingURL=use-react-factory.esm.js.map

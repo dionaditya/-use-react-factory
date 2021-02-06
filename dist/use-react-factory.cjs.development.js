@@ -35,6 +35,6 @@ var useReactFactory = function useReactFactory(stream, initValue) {
 exports.ConnectionState = ConnectionState;
 exports.StreamBuilder = StreamBuilder;
 exports.createStore = createStore;
+exports.default = useReactFactory;
 exports.sink = sink;
-exports.useReactFactory = useReactFactory;
 //# sourceMappingURL=use-react-factory.cjs.development.js.map

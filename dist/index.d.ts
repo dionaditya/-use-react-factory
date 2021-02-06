@@ -15,4 +15,4 @@ interface IReactFactory<T> {
     state: T;
 }
 declare const useReactFactory: <T>(stream: BehaviorSubject<T>, initValue: T) => IReactFactory<T>;
-export { useReactFactory };
+export default useReactFactory;
