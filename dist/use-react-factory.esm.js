@@ -14,7 +14,7 @@ var ConnectionState = ConnectionState$1;
 var sink = function sink(stream) {
   return {
     add: function add(value) {
-      return stream.next(value);
+      stream.next(value);
     }
   };
 };

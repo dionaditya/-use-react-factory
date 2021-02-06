@@ -3,7 +3,7 @@
 React hooks to help generate bloc pattern in react for alternative React Context. 
 
 ```
-  This is expiremental API. So, cant have breaking changes in newer version
+  This is expiremental API. So, can have breaking changes in newer version
 ```
 
 Acknowledment about bloc pattern
